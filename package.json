@@ -1,0 +1,21 @@
+{
+  "name": "expressusingpug",
+  "version": "1.0.0",
+  "description": "express app using pug templating engine",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "express",
+    "pug"
+  ],
+  "author": "aman singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodemon": "^1.9.2",
+    "pug": "^2.0.0-beta4"
+  }
+}
